@@ -82,17 +82,20 @@ In this task (thanks to [Vadim](https://github.com/gruzdev-dev) and [javascript.
 #### 🔹 [Product Card](https://github.com/dniils/product-card)
 
 Project I did as a test task for html coder vacancy.
+I demonstrated my skills in creating an adaptive layout, and, additionally, developed the basic logic for implementing tabs and the functionality to add items to a product characteristics list.
+
 **Live:** dniils.github.io/product-card-pages
 **Technologies:** HTML, SCSS, JavaScript
 
 #### 🔹 [Users List](https://github.com/dniils/users-router-vuejs)
 
-In this project I fetched users data from [Reqres API](https://reqres.in/) and developed the logic to store it ([Pinia](https://pinia.vuejs.org/)) and reduce the amount of unnecessary requests. It was fun and educational thanks to [Ivan](https://github.com/i-sukhanov)'s comments and reviews.
+In this project I fetched users data from [Reqres API](https://reqres.in/) and developed the logic to store it ([Pinia](https://pinia.vuejs.org/)) and reduce the amount of unnecessary requests. It was fun and educational thanks to [Ivan](https://github.com/i-sukhanov)'s help, comments and reviews.
+
 **Technologies:** HTML, SCSS, JavaScript, Vue.js, Vue Router, Pinia
 
 ---
 
-###👨‍🎓 Education
+### 👨‍🎓 Education
 
 - **Higher School of Economics**, BA in Economics
 - [**Vue.js course**](https://www.youtube.com/playlist?list=PLvTBThJr861yMBhpKafII3HZLAYujuNWw) by [Illya Klymov](https://twitter.com/xanf_ua)
