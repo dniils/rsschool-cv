@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cv {
+  color: #595d6d;
+}
+
+.cv__header {
+  font-size: 40px;
+}
+
+.cv__content {
+  font-size: 32px;
+}
